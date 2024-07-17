@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/dhhruv/Chrome-Dino-Runner/blob/master/assets/DinoWallpaper.png" width="97" height="97">
-  <h2 align="center" style="margin-top: -4px !important;">A Replica of the hidden Dinosaur Game from Chrome Browser Offline mode controlled by EMG signal</h2>
+  <h2 align="center" style="margin-top: -4px !important;">Dinosaur Game from Chrome Browser Offline mode controlled by EMG signal</h2>
 
 
 
